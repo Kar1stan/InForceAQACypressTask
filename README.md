@@ -1,6 +1,7 @@
-# Cypress.io Telnyx test
+# InForceAQACypressTask
+
 ***
-This project is testing telnyx.com site,using Cypress Page Object Model consists of 10 test cases.
+This project is testing site for https://www.saucedemo.com/,using Cypress Page Object Model.
 
 
 ## 💻 Topics
@@ -21,8 +22,8 @@ Also delete package.lock file before you run your project.
 ### Git clone
 This will clone the project, install NPM packages and also the Cypres.io which is required to run the test. No Selenium Server is required.
 ```
-$ git clone https://github.com/Kar1stan/TelnyxTest.git
-$ cd TelnyxTest
+$ git clone https://github.com/Kar1stan/InForceAQACypressTask.git
+$ cd InForceAQACypressTask
 $ npm install
 ```
 
