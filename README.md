@@ -5,6 +5,7 @@ This project is testing site for https://www.saucedemo.com/, using Cypress Page 
 Two additional test suites:
 
 1)Testing sorting options in Products page
+
 2)Testing Checkout:Your Information with invalid credentials
 
 
