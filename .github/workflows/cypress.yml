@@ -26,7 +26,7 @@ jobs:
         cache: 'npm'
     - run: npm i
     - run: npm run cypress:open
-    
+
     - name: Deploy 🚀
       if: always()
       uses: JamesIves/github-pages-deploy-action@v4
