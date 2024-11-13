@@ -1,7 +1,7 @@
 # InForceAQACypressTask
 
 ***
-This project is testing site for https://www.saucedemo.com/, using Cypress Page Object Model.
+This project is testing site https://www.saucedemo.com/, using Cypress Page Object Model.
 Two additional test suites:
 
 1)Testing sorting options in Products page
